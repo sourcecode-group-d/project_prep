@@ -9,7 +9,7 @@ What are the key strengths of each person on the team?
 * Mariam Odat
 * Qusay Mohammed Al-Amarat
 * Layana Baba
-* Saed Jabali
+* Saed Jabali: Debugging and searching
 
 How can you best utilize these strengths in the execution of your project?
 
@@ -84,21 +84,48 @@ In this critical scenario, there is another strategy to avoid reaching risk-time
 
 How will you communicate after hours and on the weekend?
 
-
+Send a message to the team requesting a time for the interview and conversation that is convenient for everyone.
 
 What is your strategy for ensuring everyone’s voice is heard?
 
-
+Everyone has ten minutes to talk about everything he wants and needs, as well as any new features that should be added, removed, or changed.
 
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
-
+There is nothing difficult to produce, no bad concept, and team communication is critical to achieving the project's aim.
 
 ***
 
 ## Work Plan
 
+How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
+
+We're back to the team's capabilities of strengths, limitations, and diversity, and the best approach to deliver the work is to break it down into little tasks that are simple to complete and deal with in order to get to the point of doing it entirely.
+
+
+What project management tool will be used?
+
+git commit
+
 ***
 
 ## Git Process
 
+What components of your project will live on GitHub?
+
+https://github.com/sourcecode-group-d
+
+How will you share the repository with your teammates?
+
+Leader & team member who built the code.
+
+What is your Git flow?
+
+![workflow](../assets/gitflow.png)
+
+Will you be using a PR review workflow? If so, consider:
+
+* How many people must review a PR? 2 people
+* Who merges PRs? Leader & team member who built the code.
+* How often will you merge? Leader & team member who built the code.
+* How will you communicate that it’s time to merge? slack
