@@ -6,7 +6,7 @@
 What are the key strengths of each person on the team?
 
 * Mohammad Abu Mattar: Problem-solving skills and experience with back-end or front-end development are required, as well as the ability to track code.
-* Mariam Odat
+* Mariam Odat: time management and problem solving
 * Qusay Mohammed Al-Amarat: problem solving and analytical thinking
 * Layana Baba
 * Saed Jabali: Debugging and searching
