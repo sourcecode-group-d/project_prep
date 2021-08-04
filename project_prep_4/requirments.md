@@ -87,3 +87,5 @@ User can't post any picture.
 User can't chat or call others.
 
 ## Feature tasks
+
+incorporating questions developing code challenges and runtime error help articles By contributing responses to the questions, you may vote for the best solution. The responses are liked and disliked.
